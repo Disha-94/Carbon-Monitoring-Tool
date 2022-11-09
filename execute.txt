@@ -1,0 +1,321 @@
+
+te=raster('Data_Cluster/retile/raster_translate00.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_0.json')
+
+te=raster('Data_Cluster/retile/raster_translate01.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_1.json')
+
+te=raster('Data_Cluster/retile/raster_translate02.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_2.json')
+
+te=raster('Data_Cluster/retile/raster_translate03.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_3.json')
+
+te=raster('Data_Cluster/retile/raster_translate04.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_4.json')
+
+te=raster('Data_Cluster/retile/raster_translate05.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_5.json')
+
+te=raster('Data_Cluster/retile/raster_translate06.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_6.json')
+
+te=raster('Data_Cluster/retile/raster_translate07.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_7.json')
+
+te=raster('Data_Cluster/retile/raster_translate10.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_8.json')
+
+te=raster('Data_Cluster/retile/raster_translate11.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_9.json')
+
+te=raster('Data_Cluster/retile/raster_translate12.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_10.json')
+
+te=raster('Data_Cluster/retile/raster_translate13.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_11.json')
+
+te=raster('Data_Cluster/retile/raster_translate14.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_12.json')
+
+te=raster('Data_Cluster/retile/raster_translate15.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_13.json')
+
+te=raster('Data_Cluster/retile/raster_translate16.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_14.json')
+
+te=raster('Data_Cluster/retile/raster_translate17.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_15.json')
+
+te=raster('Data_Cluster/retile/raster_translate20.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_16.json')
+
+te=raster('Data_Cluster/retile/raster_translate21.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_17.json')
+
+te=raster('Data_Cluster/retile/raster_translate22.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_18.json')
+
+te=raster('Data_Cluster/retile/raster_translate23.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_19.json')
+
+te=raster('Data_Cluster/retile/raster_translate24.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_20.json')
+
+te=raster('Data_Cluster/retile/raster_translate25.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_21.json')
+
+te=raster('Data_Cluster/retile/raster_translate26.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_22.json')
+
+te=raster('Data_Cluster/retile/raster_translate27.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_23.json')
+
+te=raster('Data_Cluster/retile/raster_translate30.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_24.json')
+
+te=raster('Data_Cluster/retile/raster_translate31.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_25.json')
+
+te=raster('Data_Cluster/retile/raster_translate32.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_26.json')
+
+te=raster('Data_Cluster/retile/raster_translate33.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_27.json')
+
+te=raster('Data_Cluster/retile/raster_translate34.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_28.json')
+
+te=raster('Data_Cluster/retile/raster_translate35.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_29.json')
+
+te=raster('Data_Cluster/retile/raster_translate36.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_30.json')
+
+te=raster('Data_Cluster/retile/raster_translate37.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_31.json')
+
+te=raster('Data_Cluster/retile/raster_translate40.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_32.json')
+
+te=raster('Data_Cluster/retile/raster_translate41.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_33.json')
+
+te=raster('Data_Cluster/retile/raster_translate42.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_34.json')
+
+te=raster('Data_Cluster/retile/raster_translate43.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_35.json')
+
+te=raster('Data_Cluster/retile/raster_translate44.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_36.json')
+
+te=raster('Data_Cluster/retile/raster_translate45.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_37.json')
+
+te=raster('Data_Cluster/retile/raster_translate46.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_38.json')
+
+te=raster('Data_Cluster/retile/raster_translate47.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_39.json')
+
+te=raster('Data_Cluster/retile/raster_translate50.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_40.json')
+
+te=raster('Data_Cluster/retile/raster_translate51.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_41.json')
+
+te=raster('Data_Cluster/retile/raster_translate52.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_42.json')
+
+te=raster('Data_Cluster/retile/raster_translate53.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_43.json')
+
+te=raster('Data_Cluster/retile/raster_translate54.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_44.json')
+
+te=raster('Data_Cluster/retile/raster_translate55.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_45.json')
+
+te=raster('Data_Cluster/retile/raster_translate56.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_46.json')
+
+te=raster('Data_Cluster/retile/raster_translate57.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_47.json')
+
+te=raster('Data_Cluster/retile/raster_translate60.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_48.json')
+
+te=raster('Data_Cluster/retile/raster_translate61.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_49.json')
+
+te=raster('Data_Cluster/retile/raster_translate62.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_50.json')
+
+te=raster('Data_Cluster/retile/raster_translate63.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_51.json')
+
+te=raster('Data_Cluster/retile/raster_translate64.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_52.json')
+
+te=raster('Data_Cluster/retile/raster_translate65.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_53.json')
+
+te=raster('Data_Cluster/retile/raster_translate66.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_54.json')
+
+te=raster('Data_Cluster/retile/raster_translate67.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_55.json')
+
+te=raster('Data_Cluster/retile/raster_translate70.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_56.json')
+
+te=raster('Data_Cluster/retile/raster_translate71.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_57.json')
+
+te=raster('Data_Cluster/retile/raster_translate72.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_58.json')
+
+te=raster('Data_Cluster/retile/raster_translate73.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_59.json')
+
+te=raster('Data_Cluster/retile/raster_translate74.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_60.json')
+
+te=raster('Data_Cluster/retile/raster_translate75.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_61.json')
+
+te=raster('Data_Cluster/retile/raster_translate76.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_62.json')
+
+te=raster('Data_Cluster/retile/raster_translate77.tif')
+te1=rasterToPolygons(te, na.rm=TRUE, dissolve=FALSE)
+te2=geojson_json(te1)
+geojson_write(te2, file='Data_Cluster/new_json/json_63.json')
+
