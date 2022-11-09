@@ -1,0 +1,47 @@
+{
+  "name": "epic-map-reactjs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "cors": "^2.8.5",
+    "d3": "^7.0.0",
+    "dotenv": "^8.2.0",
+    "leaflet": "1.7.1",
+    "leaflet-geosearch": "3.2.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "opencage-api-client": "^0.7.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-leaflet": "3.1.0",
+    "react-materialize": "^3.9.9",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3",
+    "socket.io-client": "^4.1.2",
+    "web-vitals": "1.1.1"
+  },
+  "scripts": {
+    "server": "export NODE_OPTIONS=--max_old_space_size=4096 && react-scripts start",
+    "start": " react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
+}

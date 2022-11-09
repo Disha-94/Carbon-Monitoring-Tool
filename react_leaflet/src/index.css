@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* .toggleSwitch{
+  position: absolute;
+  left: 5vw;
+  top: 80vh;
+  height: 5vh;
+  width: 10vw;
+  background-color: white;
+  z-index: 20
+}
+
+.mapData {
+  position: absolute;
+  z-index: 5
+}
+
+.formDataS{
+  position: absolute;
+  left: 70vw;
+  top: 5vh;
+  height: 90vh;
+  width: 25vw;
+  background-color: white;
+  border-radius:10px;
+  z-index: 20;
+} */
